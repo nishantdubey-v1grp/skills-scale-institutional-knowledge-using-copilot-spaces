@@ -8,7 +8,7 @@ Provides a quick reference for how roles interact across the project lifecycle a
 ## Interaction Matrix
 
 | From Role | To Role | Context | Communication | Frequency |
-|-----------|---------|---------|-----------------|-----------|
+|-----------|---------|---------|-----------------|----------|
 | **Project Manager** | Product Manager | Planning & prioritization | Backlog priorities, timeline, resource constraints | Weekly sync |
 | **Project Manager** | Developers | Execution & coordination | Work assignments, blockers, timeline updates | Daily standup |
 | **Project Manager** | Release Manager | Release coordination | Release window, go-live criteria, stakeholder comms | Weekly (pre-release daily) |
